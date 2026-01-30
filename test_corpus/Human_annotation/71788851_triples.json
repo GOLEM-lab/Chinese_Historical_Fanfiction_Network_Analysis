@@ -1,0 +1,247 @@
+{
+  "work_id": "71788851",
+  "title": "【刘卫】当古代君臣突变现代君臣",
+  "author": "Anonymous",
+  "triples": [
+    {
+      "subject_raw": "卫青",
+      "subject_normalized": "卫青",
+      "action": "等待",
+      "object_raw": "刘彻",
+      "object_normalized": "刘彻",
+      "direction": "卫青→刘彻",
+      "source_snippet": "卫青心念一动，既然他杀伐如此之重，都能被天地认可，那他的君主绝不可能被遗落。既如此，不若再等一等，等他的君主也驾临此地，同他见过真正的最后一面，再做定夺。",
+      "raw_triple": "[卫青] [等待] [刘彻] || 卫青心念一动，既然他杀伐如此之重，都能被天地认可，那他的君主绝不可能被遗落。既如此，不若再等一等，等他的君主也驾临此地，同他见过真正的最后一面，再做定夺。"
+    },
+    {
+      "subject_raw": "卫青",
+      "subject_normalized": "卫青",
+      "action": "遥遥注视",
+      "object_raw": "刘彻",
+      "object_normalized": "刘彻",
+      "direction": "卫青→刘彻",
+      "source_snippet": "卫青在昏沉的地府，遥遥注视了刘彻十九年。",
+      "raw_triple": "[卫青] [遥遥注视] [刘彻] || 卫青在昏沉的地府，遥遥注视了刘彻十九年。"
+    },
+    {
+      "subject_raw": "刘彻",
+      "subject_normalized": "刘彻",
+      "action": "调升职位",
+      "object_raw": "卫青",
+      "object_normalized": "卫青",
+      "direction": "刘彻→卫青",
+      "source_snippet": "事实果然如此，刘彻甚至从未思考卫青有想投胎的可能，几乎是理所当然地为他调升职位，继续随侍在自己身侧。",
+      "raw_triple": "[刘彻] [调升职位] [卫青] || 事实果然如此，刘彻甚至从未思考卫青有想投胎的可能，几乎是理所当然地为他调升职位，继续随侍在自己身侧。"
+    },
+    {
+      "subject_raw": "卫青",
+      "subject_normalized": "卫青",
+      "action": "无法拒绝",
+      "object_raw": "刘彻",
+      "object_normalized": "刘彻",
+      "direction": "卫青→刘彻",
+      "source_snippet": "卫青觉得灵魂间的因果实在太过强大，让他竟始终对刘彻生不出一丝拒绝的心。",
+      "raw_triple": "[卫青] [无法拒绝] [刘彻] || 卫青觉得灵魂间的因果实在太过强大，让他竟始终对刘彻生不出一丝拒绝的心。"
+    },
+    {
+      "subject_raw": "卫青",
+      "subject_normalized": "卫青",
+      "action": "坦然接受一如既往追随",
+      "object_raw": "刘彻",
+      "object_normalized": "刘彻",
+      "direction": "卫青→刘彻",
+      "source_snippet": "他坦然接受了刘彻的一切安排，哪怕只剩魂体，也一如既往追随着他的君主。",
+      "raw_triple": "[卫青] [坦然接受一如既往追随] [刘彻] || 他坦然接受了刘彻的一切安排，哪怕只剩魂体，也一如既往追随着他的君主。"
+    },
+    {
+      "subject_raw": "卫青",
+      "subject_normalized": "卫青",
+      "action": "寻找",
+      "object_raw": "刘彻",
+      "object_normalized": "刘彻",
+      "direction": "卫青→刘彻",
+      "source_snippet": "还是先找陛下重要一些。",
+      "raw_triple": "[卫青] [寻找] [刘彻] || 还是先找陛下重要一些。"
+    },
+    {
+      "subject_raw": "卫青",
+      "subject_normalized": "卫青",
+      "action": "下跪参见",
+      "object_raw": "刘彻",
+      "object_normalized": "刘彻",
+      "direction": "卫青→刘彻",
+      "source_snippet": "“陛下。”卫青脱口而出，习惯性地屈膝跪地，低头道：“臣卫青，参见陛下。”",
+      "raw_triple": "[卫青] [下跪参见] [刘彻] || “陛下。”卫青脱口而出，习惯性地屈膝跪地，低头道：“臣卫青，参见陛下。”"
+    },
+    {
+      "subject_raw": "刘彻",
+      "subject_normalized": "刘彻",
+      "action": "用枪指向",
+      "object_raw": "卫青",
+      "object_normalized": "卫青",
+      "direction": "刘彻→卫青",
+      "source_snippet": "卫青缓缓抬起头，慢慢确认抵在自己额头的东西，是枪管。",
+      "raw_triple": "[刘彻] [用枪指向] [卫青] || 卫青缓缓抬起头，慢慢确认抵在自己额头的东西，是枪管。"
+    },
+    {
+      "subject_raw": "刘彻",
+      "subject_normalized": "刘彻",
+      "action": "怀疑",
+      "object_raw": "卫青",
+      "object_normalized": "卫青",
+      "direction": "刘彻→卫青",
+      "source_snippet": "刘彻的声音低沉冰冷，透着毫不掩饰的怀疑，“你是谁？”",
+      "raw_triple": "[刘彻] [怀疑] [卫青] || 刘彻的声音低沉冰冷，透着毫不掩饰的怀疑，“你是谁？”"
+    },
+    {
+      "subject_raw": "刘彻",
+      "subject_normalized": "刘彻",
+      "action": "质问",
+      "object_raw": "卫青",
+      "object_normalized": "卫青",
+      "direction": "刘彻→卫青",
+      "source_snippet": "刘彻的声音低沉冰冷……“你想做些什么？”",
+      "raw_triple": "[刘彻] [质问] [卫青] || 刘彻的声音低沉冰冷……“你想做些什么？”"
+    },
+    {
+      "subject_raw": "卫青",
+      "subject_normalized": "卫青",
+      "action": "夺枪",
+      "object_raw": "刘彻",
+      "object_normalized": "刘彻",
+      "direction": "卫青→刘彻",
+      "source_snippet": "他猛然出手，在刘彻不可置信的目光下夺枪起身",
+      "raw_triple": "[卫青] [夺枪] [刘彻] || 他猛然出手，在刘彻不可置信的目光下夺枪起身"
+    },
+    {
+      "subject_raw": "卫青",
+      "subject_normalized": "卫青",
+      "action": "道歉",
+      "object_raw": "刘彻",
+      "object_normalized": "刘彻",
+      "direction": "卫青→刘彻",
+      "source_snippet": "“陛下，得罪了。”",
+      "raw_triple": "[卫青] [道歉] [刘彻] || “陛下，得罪了。”"
+    },
+    {
+      "subject_raw": "卫青",
+      "subject_normalized": "卫青",
+      "action": "将枪递回",
+      "object_raw": "刘彻",
+      "object_normalized": "刘彻",
+      "direction": "卫青→刘彻",
+      "source_snippet": "接着，他就看到这武力高强的闯入者将枪递回给他，再度跪了下去。",
+      "raw_triple": "[卫青] [将枪递回] [刘彻] || 接着，他就看到这武力高强的闯入者将枪递回给他，再度跪了下去。"
+    },
+    {
+      "subject_raw": "卫青",
+      "subject_normalized": "卫青",
+      "action": "跪下认罪",
+      "object_raw": "刘彻",
+      "object_normalized": "刘彻",
+      "direction": "卫青→刘彻",
+      "source_snippet": "卫青叩首在地，沉声道：“臣以下犯上，罪该万死。”",
+      "raw_triple": "[卫青] [跪下认罪] [刘彻] || 卫青叩首在地，沉声道：“臣以下犯上，罪该万死。”"
+    },
+    {
+      "subject_raw": "刘彻",
+      "subject_normalized": "刘彻",
+      "action": "再次用枪指向",
+      "object_raw": "卫青",
+      "object_normalized": "卫青",
+      "direction": "刘彻→卫青",
+      "source_snippet": "枪口再次抵上卫青的额头。",
+      "raw_triple": "[刘彻] [再次用枪指向] [卫青] || 枪口再次抵上卫青的额头。"
+    },
+    {
+      "subject_raw": "刘彻",
+      "subject_normalized": "刘彻",
+      "action": "命令",
+      "object_raw": "卫青",
+      "object_normalized": "卫青",
+      "direction": "刘彻→卫青",
+      "source_snippet": "“抬头，先回答我之前的问题。”",
+      "raw_triple": "[刘彻] [命令] [卫青] || “抬头，先回答我之前的问题。”"
+    },
+    {
+      "subject_raw": "卫青",
+      "subject_normalized": "卫青",
+      "action": "回答",
+      "object_raw": "刘彻",
+      "object_normalized": "刘彻",
+      "direction": "卫青→刘彻",
+      "source_snippet": "卫青顶着能取自己性命的武器，顺从地抬起头，为他的君主解惑：“臣是卫青，您是臣效忠的皇帝。",
+      "raw_triple": "[卫青] [回答] [刘彻] || 卫青顶着能取自己性命的武器，顺从地抬起头，为他的君主解惑：“臣是卫青，您是臣效忠的皇帝。"
+    },
+    {
+      "subject_raw": "卫青",
+      "subject_normalized": "卫青",
+      "action": "请求单独谈话",
+      "object_raw": "刘彻",
+      "object_normalized": "刘彻",
+      "direction": "卫青→刘彻",
+      "source_snippet": "",
+      "raw_triple": "[卫青] [请求单独谈话] [刘彻] “陛下，余下之事，臣只能说给您一个人听，旁人不得以任何方式听闻，否则后果不堪设想。”卫青郑重其事，恳请道：“您能不能先屏退左右？”"
+    },
+    {
+      "subject_raw": "卫青",
+      "subject_normalized": "卫青",
+      "action": "请求被捆绑",
+      "object_raw": "刘彻",
+      "object_normalized": "刘彻",
+      "direction": "卫青→刘彻",
+      "source_snippet": "“如果您对臣不放心，可以先将臣捆起来……”",
+      "raw_triple": "[卫青] [请求被捆绑] [刘彻] || “如果您对臣不放心，可以先将臣捆起来……”"
+    },
+    {
+      "subject_raw": "刘彻",
+      "subject_normalized": "刘彻",
+      "action": "示意伸手",
+      "object_raw": "卫青",
+      "object_normalized": "卫青",
+      "direction": "刘彻→卫青",
+      "source_snippet": "他当真取下领带，示意卫青伸手。",
+      "raw_triple": "[刘彻] [示意伸手] [卫青] || 他当真取下领带，示意卫青伸手。"
+    },
+    {
+      "subject_raw": "刘彻",
+      "subject_normalized": "刘彻",
+      "action": "捆绑手腕束缚",
+      "object_raw": "卫青",
+      "object_normalized": "卫青",
+      "direction": "刘彻→卫青",
+      "source_snippet": "看刘彻大力将他的手腕缚在一起",
+      "raw_triple": "[刘彻] [捆绑手腕束缚] [卫青] || 看刘彻大力将他的手腕缚在一起"
+    },
+    {
+      "subject_raw": "刘彻",
+      "subject_normalized": "刘彻",
+      "action": "扼住脖颈",
+      "object_raw": "卫青",
+      "object_normalized": "卫青",
+      "direction": "刘彻→卫青",
+      "source_snippet": "继而那只手向上探来，扼住了他的脖颈。",
+      "raw_triple": "[刘彻] [扼住脖颈] [卫青] || 继而那只手向上探来，扼住了他的脖颈。"
+    },
+    {
+      "subject_raw": "刘彻",
+      "subject_normalized": "刘彻",
+      "action": "命令说话",
+      "object_raw": "卫青",
+      "object_normalized": "卫青",
+      "direction": "刘彻→卫青",
+      "source_snippet": "维持这个扼住卫青要害的动作，命令道：“说吧。”",
+      "raw_triple": "[刘彻] [命令说话] [卫青] || 维持这个扼住卫青要害的动作，命令道：“说吧。”"
+    },
+    {
+      "subject_raw": "卫青",
+      "subject_normalized": "卫青",
+      "action": "如实告知说",
+      "object_raw": "刘彻",
+      "object_normalized": "刘彻",
+      "direction": "卫青→刘彻",
+      "source_snippet": "卫青呼吸、张口，将地府的事一一如实告知。",
+      "raw_triple": "[卫青] [如实告知说] [刘彻] || 卫青呼吸、张口，将地府的事一一如实告知。"
+    }
+  ]
+}

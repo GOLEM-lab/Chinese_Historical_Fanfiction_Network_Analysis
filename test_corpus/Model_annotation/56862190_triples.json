@@ -1,0 +1,31 @@
+{
+  "work_id": 56862190,
+  "title": "【汉武/刘卫】上邪（by clare）",
+  "author": "orphan_account",
+  "original_words": 42426,
+  "updated_words": 1750,
+  "total_triples": 1,
+  "extraction_time_seconds": 33.84,
+  "triples": [
+    {
+      "subject_raw": "刘彻",
+      "subject_normalized": "刘彻",
+      "action": "猜忌",
+      "object_raw": "卫青",
+      "object_normalized": "卫青",
+      "direction": "刘彻→卫青",
+      "source_snippet": "大将军卫青擅自调用羽林军退了匈奴兵，却从此引起了陛下猜忌，削去兵权，恩宠衰凋。",
+      "raw_triple": "[刘彻] [猜忌] [卫青] || 大将军卫青擅自调用羽林军退了匈奴兵，却从此引起了陛下猜忌，削去兵权，恩宠衰凋。",
+      "chunk_start": 0,
+      "chunk_end": 588
+    }
+  ],
+  "statistics": {
+    "liuche_to_weiqing": 1,
+    "weiqing_to_liuche": 0,
+    "liuche_to_weiqing_percentage": 100.0,
+    "weiqing_to_liuche_percentage": 0.0,
+    "with_source_snippet": 1,
+    "unique_actions": 1
+  }
+}

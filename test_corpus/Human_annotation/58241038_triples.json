@@ -1,0 +1,217 @@
+{
+  "work_id": "58241038",
+  "title": "【刘卫】胶东王吃饭坐哪桌",
+  "author": "baijiacangran",
+  "triples": [
+    {
+      "subject_raw": "刘彻",
+      "subject_normalized": "刘彻",
+      "action": "薅住手腕",
+      "object_raw": "卫青",
+      "object_normalized": "卫青",
+      "direction": "刘彻→卫青",
+      "source_snippet": "他偷笑的嘴角还没压下去，便被刘彻一把薅住了手腕。",
+      "raw_triple": "[刘彻] [薅住手腕] [卫青] || 他偷笑的嘴角还没压下去，便被刘彻一把薅住了手腕。"
+    },
+    {
+      "subject_raw": "刘彻",
+      "subject_normalized": "刘彻",
+      "action": "握住手腕",
+      "object_raw": "卫青",
+      "object_normalized": "卫青",
+      "direction": "刘彻→卫青",
+      "source_snippet": "刘彻双手握住卫青的手腕，目光灼灼望向卫青，一副你不答应我就不撒手的模样。",
+      "raw_triple": "[刘彻] [握住手腕] [卫青] || 刘彻双手握住卫青的手腕，目光灼灼望向卫青，一副你不答应我就不撒手的模样。"
+    },
+    {
+      "subject_raw": "刘彻",
+      "subject_normalized": "刘彻",
+      "action": "望向",
+      "object_raw": "卫青",
+      "object_normalized": "卫青",
+      "direction": "刘彻→卫青",
+      "source_snippet": "刘彻双手握住卫青的手腕，目光灼灼望向卫青，一副你不答应我就不撒手的模样。",
+      "raw_triple": "[刘彻] [望向] [卫青] || 刘彻双手握住卫青的手腕，目光灼灼望向卫青，一副你不答应我就不撒手的模样。"
+    },
+    {
+      "subject_raw": "刘彻",
+      "subject_normalized": "刘彻",
+      "action": "威胁",
+      "object_raw": "卫青",
+      "object_normalized": "卫青",
+      "direction": "刘彻→卫青",
+      "source_snippet": "刘彻双手握住卫青的手腕，目光灼灼望向卫青，一副你不答应我就不撒手的模样。",
+      "raw_triple": "[刘彻] [威胁] [卫青] || 刘彻双手握住卫青的手腕，目光灼灼望向卫青，一副你不答应我就不撒手的模样。"
+    },
+    {
+      "subject_raw": "刘彻",
+      "subject_normalized": "刘彻",
+      "action": "请求",
+      "object_raw": "卫青",
+      "object_normalized": "卫青",
+      "direction": "刘彻→卫青",
+      "source_snippet": "“青青，跟我回去见家长吧！”",
+      "raw_triple": "[刘彻] [请求] [卫青] || “青青，跟我回去见家长吧！”"
+    },
+    {
+      "subject_raw": "卫青",
+      "subject_normalized": "卫青",
+      "action": "发怵反问",
+      "object_raw": "刘彻",
+      "object_normalized": "刘彻",
+      "direction": "卫青→刘彻",
+      "source_snippet": "“啊？”",
+      "raw_triple": "[卫青] [发怵反问] [刘彻] || “啊？”"
+    },
+    {
+      "subject_raw": "卫青",
+      "subject_normalized": "卫青",
+      "action": "提议说",
+      "object_raw": "刘彻",
+      "object_normalized": "刘彻",
+      "direction": "卫青→刘彻",
+      "source_snippet": "卫青沉默了一会儿，小小声道：“要不，要不……我换女装和你回去？”",
+      "raw_triple": "[卫青] [提议说] [刘彻] || 卫青沉默了一会儿，小小声道：“要不，要不……我换女装和你回去？”"
+    },
+    {
+      "subject_raw": "刘彻",
+      "subject_normalized": "刘彻",
+      "action": "拒绝并安慰说",
+      "object_raw": "卫青",
+      "object_normalized": "卫青",
+      "direction": "刘彻→卫青",
+      "source_snippet": "“纸里也包不住火，你一开口说话不得漏底，再说也不能一直瞒下去吧。老话说丑媳妇早晚见公婆。”",
+      "raw_triple": "[刘彻] [拒绝并安慰说] [卫青] || “纸里也包不住火，你一开口说话不得漏底，再说也不能一直瞒下去吧。老话说丑媳妇早晚见公婆。”"
+    },
+    {
+      "subject_raw": "刘彻",
+      "subject_normalized": "刘彻",
+      "action": "捏脸颊触摸",
+      "object_raw": "卫青",
+      "object_normalized": "卫青",
+      "direction": "刘彻→卫青",
+      "source_snippet": "伸手捏捏卫青因紧张有些发白的脸颊，“咱家青青也不丑，老好看了，见见也没事儿！”",
+      "raw_triple": "[刘彻] [捏脸颊触摸] [卫青] || 伸手捏捏卫青因紧张有些发白的脸颊，“咱家青青也不丑，老好看了，见见也没事儿！”"
+    },
+    {
+      "subject_raw": "刘彻",
+      "subject_normalized": "刘彻",
+      "action": "逗笑说",
+      "object_raw": "卫青",
+      "object_normalized": "卫青",
+      "direction": "刘彻→卫青",
+      "source_snippet": "见卫青被逗笑了，刘彻又添上一句，“不过女装嘛，可以在家穿给我看。”",
+      "raw_triple": "[刘彻] [逗笑说] [卫青] || 见卫青被逗笑了，刘彻又添上一句，“不过女装嘛，可以在家穿给我看。”"
+    },
+    {
+      "subject_raw": "卫青",
+      "subject_normalized": "卫青",
+      "action": "回答说",
+      "object_raw": "刘彻",
+      "object_normalized": "刘彻",
+      "direction": "卫青→刘彻",
+      "source_snippet": "卫青说出口的话也变成了半含羞意，“那你自己挑款式。”",
+      "raw_triple": "[卫青] [回答说] [刘彻] || 卫青说出口的话也变成了半含羞意，“那你自己挑款式。”"
+    },
+    {
+      "subject_raw": "刘彻",
+      "subject_normalized": "刘彻",
+      "action": "牵着",
+      "object_raw": "卫青",
+      "object_normalized": "卫青",
+      "direction": "刘彻→卫青",
+      "source_snippet": "然而当刘彻牵着卫青的手进了家门，并介绍这是自己对象时……",
+      "raw_triple": "[刘彻] [牵着] [卫青] || 然而当刘彻牵着卫青的手进了家门，并介绍这是自己对象时……"
+    },
+    {
+      "subject_raw": "刘彻",
+      "subject_normalized": "刘彻",
+      "action": "介绍",
+      "object_raw": "卫青",
+      "object_normalized": "卫青",
+      "direction": "刘彻→卫青",
+      "source_snippet": "然而当刘彻牵着卫青的手进了家门，并介绍这是自己对象时……",
+      "raw_triple": "[刘彻] [介绍] [卫青] || 然而当刘彻牵着卫青的手进了家门，并介绍这是自己对象时……"
+    },
+    {
+      "subject_raw": "卫青",
+      "subject_normalized": "卫青",
+      "action": "挡在身前",
+      "object_raw": "刘彻",
+      "object_normalized": "刘彻",
+      "direction": "卫青→刘彻",
+      "source_snippet": "刘彻生受了两下，第三下扫帚落下前，卫青挡在了刘彻前面……",
+      "raw_triple": "[卫青] [挡在身前] [刘彻] || 刘彻生受了两下，第三下扫帚落下前，卫青挡在了刘彻前面……"
+    },
+    {
+      "subject_raw": "刘彻",
+      "subject_normalized": "刘彻",
+      "action": "拽袖子暗示",
+      "object_raw": "卫青",
+      "object_normalized": "卫青",
+      "direction": "刘彻→卫青",
+      "source_snippet": "无奈刘彻一直在拽他袖子做暗示，他不得不开口说出自己的职业……",
+      "raw_triple": "[刘彻] [拽袖子暗示] [卫青] || 无奈刘彻一直在拽他袖子做暗示，他不得不开口说出自己的职业……"
+    },
+    {
+      "subject_raw": "刘彻",
+      "subject_normalized": "刘彻",
+      "action": "看向卫青飞眼",
+      "object_raw": "卫青",
+      "object_normalized": "卫青",
+      "direction": "刘彻→卫青",
+      "source_snippet": "转身向门外走去时，刘彻向卫青飞了个眼，表示事情搞定。",
+      "raw_triple": "[刘彻] [看向卫青飞眼] [卫青] || 转身向门外走去时，刘彻向卫青飞了个眼，表示事情搞定。"
+    },
+    {
+      "subject_raw": "刘彻",
+      "subject_normalized": "刘彻",
+      "action": "飞眼",
+      "object_raw": "卫青",
+      "object_normalized": "卫青",
+      "direction": "刘彻→卫青",
+      "source_snippet": "“转身向门外走去时，刘彻向卫青飞了个眼”",
+      "raw_triple": "[刘彻] [飞眼] [卫青]|| “转身向门外走去时，刘彻向卫青飞了个眼”"
+    },
+    {
+      "subject_raw": "卫青",
+      "subject_normalized": "卫青",
+      "action": "回以微笑",
+      "object_raw": "刘彻",
+      "object_normalized": "刘彻",
+      "direction": "卫青→刘彻",
+      "source_snippet": "“看卫青突然抿嘴一笑”",
+      "raw_triple": "[卫青] [回以微笑] [刘彻] || “看卫青突然抿嘴一笑”"
+    },
+    {
+      "subject_raw": "刘彻",
+      "subject_normalized": "刘彻",
+      "action": "无奈对视",
+      "object_raw": "卫青",
+      "object_normalized": "卫青",
+      "direction": "刘彻→卫青",
+      "source_snippet": "“隔着遥遥大厅，刘彻与卫青无奈对视”",
+      "raw_triple": "[刘彻] [无奈对视] [卫青] || “隔着遥遥大厅，刘彻与卫青无奈对视”"
+    },
+    {
+      "subject_raw": "卫青",
+      "subject_normalized": "卫青",
+      "action": "嘲笑",
+      "object_raw": "刘彻",
+      "object_normalized": "刘彻",
+      "direction": "卫青→刘彻",
+      "source_snippet": "“卫青实在没憋住，俯在桌沿笑得直不起腰”",
+      "raw_triple": "[卫青] [嘲笑] [刘彻] || “卫青实在没憋住，俯在桌沿笑得直不起腰”"
+    },
+    {
+      "subject_raw": "刘彻",
+      "subject_normalized": "刘彻",
+      "action": "看向",
+      "object_raw": "卫青",
+      "object_normalized": "卫青",
+      "direction": "刘彻→卫青",
+      "source_snippet": "“刘彻黑着脸看向饭厅另一头”",
+      "raw_triple": "[刘彻] [看向] [卫青] || “刘彻黑着脸看向饭厅另一头”"
+    }
+  ]
+}

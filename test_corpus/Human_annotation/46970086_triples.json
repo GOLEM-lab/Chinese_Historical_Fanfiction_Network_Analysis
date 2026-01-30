@@ -1,0 +1,67 @@
+{
+  "work_id": "46970086",
+  "title": "私泻禁中语",
+  "author": "Ringing",
+  "triples": [
+    {
+      "subject_raw": "刘彻",
+      "subject_normalized": "刘彻",
+      "action": "赠送",
+      "object_raw": "卫青",
+      "object_normalized": "卫青",
+      "direction": "刘彻→卫青",
+      "source_snippet": "“仲卿，朕看你颇爱这只鸟儿，朕就将它送给你，你今日便把它捎回去吧。”",
+      "raw_triple": "[刘彻] [赠送] [卫青] || “仲卿，朕看你颇爱这只鸟儿，朕就将它送给你，你今日便把它捎回去吧。”"
+    },
+    {
+      "subject_raw": "卫青",
+      "subject_normalized": "卫青",
+      "action": "婉拒",
+      "object_raw": "刘彻",
+      "object_normalized": "刘彻",
+      "direction": "卫青→刘彻",
+      "source_snippet": "“臣谢陛下厚爱，只是这鸟儿过于张扬，臣恐……”",
+      "raw_triple": "[卫青] [婉拒] [刘彻] || “臣谢陛下厚爱，只是这鸟儿过于张扬，臣恐……”"
+    },
+    {
+      "subject_raw": "刘彻",
+      "subject_normalized": "刘彻",
+      "action": "折腾",
+      "object_raw": "卫青",
+      "object_normalized": "卫青",
+      "direction": "刘彻→卫青",
+      "source_snippet": "将卫青一顿折腾后，刘彻躺在床上逗着那只鸟儿，任由卫青在一旁整理自己凌乱的衣衫。",
+      "raw_triple": "[刘彻] [折腾] [卫青] || 将卫青一顿折腾后，刘彻躺在床上逗着那只鸟儿，任由卫青在一旁整理自己凌乱的衣衫。"
+    },
+    {
+      "subject_raw": "刘彻",
+      "subject_normalized": "刘彻",
+      "action": "说",
+      "object_raw": "卫青",
+      "object_normalized": "卫青",
+      "direction": "刘彻→卫青",
+      "source_snippet": "“仲卿，你看这鸟儿最终还是回到你的手上了。”",
+      "raw_triple": "[刘彻] [说] [卫青] || “仲卿，你看这鸟儿最终还是回到你的手上了。”"
+    },
+    {
+      "subject_raw": "刘彻",
+      "subject_normalized": "刘彻",
+      "action": "要求",
+      "object_raw": "卫青",
+      "object_normalized": "卫青",
+      "direction": "刘彻→卫青",
+      "source_snippet": "“仲卿且将这鸟儿借我几日。”",
+      "raw_triple": "[刘彻] [要求] [卫青] || “仲卿且将这鸟儿借我几日。”"
+    },
+    {
+      "subject_raw": "刘彻",
+      "subject_normalized": "刘彻",
+      "action": "让内侍送回鸟并叮嘱",
+      "object_raw": "卫青",
+      "object_normalized": "卫青",
+      "direction": "刘彻→卫青",
+      "source_snippet": "后来，内侍偷偷将鸟儿送了回来，说皇上叮嘱让大将军四下无人之时再打开笼子。",
+      "raw_triple": "[刘彻] [让内侍送回鸟并叮嘱] [卫青] || 后来，内侍偷偷将鸟儿送了回来，说皇上叮嘱让大将军四下无人之时再打开笼子。"
+    }
+  ]
+}

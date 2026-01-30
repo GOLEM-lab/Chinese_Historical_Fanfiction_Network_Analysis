@@ -1,0 +1,67 @@
+{
+  "work_id": "56862190",
+  "title": "【汉武/刘卫】上邪（by clare）",
+  "author": "orphan_account",
+  "triples": [
+    {
+      "subject_raw": "卫青",
+      "subject_normalized": "卫青",
+      "action": "擅自调兵",
+      "object_raw": "刘彻",
+      "object_normalized": "刘彻",
+      "direction": "卫青→刘彻",
+      "source_snippet": "“大将军卫青擅自调用羽林军退了匈奴兵”",
+      "raw_triple": "[卫青] [擅自调兵] [刘彻] || “大将军卫青擅自调用羽林军退了匈奴兵”"
+    },
+    {
+      "subject_raw": "刘彻",
+      "subject_normalized": "刘彻",
+      "action": "猜忌",
+      "object_raw": "卫青",
+      "object_normalized": "卫青",
+      "direction": "刘彻→卫青",
+      "source_snippet": "“却从此引起了陛下猜忌”",
+      "raw_triple": "[刘彻] [猜忌] [卫青] || “却从此引起了陛下猜忌”"
+    },
+    {
+      "subject_raw": "刘彻",
+      "subject_normalized": "刘彻",
+      "action": "猜忌后削去兵权",
+      "object_raw": "卫青",
+      "object_normalized": "卫青",
+      "direction": "刘彻→卫青",
+      "source_snippet": "“削去兵权，恩宠衰凋”",
+      "raw_triple": "[刘彻] [猜忌后削去兵权] [卫青] || “削去兵权，恩宠衰凋”"
+    },
+    {
+      "subject_raw": "刘彻",
+      "subject_normalized": "刘彻",
+      "action": "猜忌后恩宠衰凋",
+      "object_raw": "卫青",
+      "object_normalized": "卫青",
+      "direction": "刘彻→卫青",
+      "source_snippet": "“削去兵权，恩宠衰凋”",
+      "raw_triple": "[刘彻] [猜忌后恩宠衰凋] [卫青] || “削去兵权，恩宠衰凋”"
+    },
+    {
+      "subject_raw": "刘彻",
+      "subject_normalized": "刘彻",
+      "action": "安排陪葬",
+      "object_raw": "卫青",
+      "object_normalized": "卫青",
+      "direction": "刘彻→卫青",
+      "source_snippet": "“距他最近的陪葬墓……是他的大司马大将军，卫青。”",
+      "raw_triple": "[刘彻] [安排陪葬] [卫青] || “距他最近的陪葬墓……是他的大司马大将军，卫青。”"
+    },
+    {
+      "subject_raw": "卫青",
+      "subject_normalized": "卫青",
+      "action": "策马紧随追赶",
+      "object_raw": "刘彻",
+      "object_normalized": "刘彻",
+      "direction": "卫青→刘彻",
+      "source_snippet": "“只有少年卫青驾驭的那一骑，马蹄声始终紧随。”",
+      "raw_triple": "[卫青] [策马紧随追赶] [刘彻] || “只有少年卫青驾驭的那一骑，马蹄声始终紧随。”"
+    }
+  ]
+}

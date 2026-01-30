@@ -1,0 +1,827 @@
+{
+  "work_id": "51899716",
+  "title": "[刘卫] 天子病鼎湖",
+  "author": "Jacinta_Jane",
+  "triples": [
+    {
+      "subject_raw": "刘彻",
+      "subject_normalized": "刘彻",
+      "action": "问",
+      "object_raw": "卫青",
+      "object_normalized": "卫青",
+      "direction": "刘彻→卫青",
+      "source_snippet": "“仲卿怎么来了？”",
+      "raw_triple": "[刘彻] [问] [卫青] || “仲卿怎么来了？”"
+    },
+    {
+      "subject_raw": "卫青",
+      "subject_normalized": "卫青",
+      "action": "回答",
+      "object_raw": "刘彻",
+      "object_normalized": "刘彻",
+      "direction": "卫青→刘彻",
+      "source_snippet": "卫青却答了一句在满堂臣子听来非常僭越的话。“臣不放心，总是要亲眼看了，才知道情况。”",
+      "raw_triple": "[卫青] [回答] [刘彻] || 卫青却答了一句在满堂臣子听来非常僭越的话。“臣不放心，总是要亲眼看了，才知道情况。”"
+    },
+    {
+      "subject_raw": "刘彻",
+      "subject_normalized": "刘彻",
+      "action": "赶走命令",
+      "object_raw": "卫青",
+      "object_normalized": "卫青",
+      "direction": "刘彻→卫青",
+      "source_snippet": "刘彻笑了笑，却是当下就赶他走。“太子还小，你不坐镇长安，朕才是不放心。”",
+      "raw_triple": "[刘彻] [赶走命令] [卫青] || 刘彻笑了笑，却是当下就赶他走。“太子还小，你不坐镇长安，朕才是不放心。”"
+    },
+    {
+      "subject_raw": "卫青",
+      "subject_normalized": "卫青",
+      "action": "请罪",
+      "object_raw": "刘彻",
+      "object_normalized": "刘彻",
+      "direction": "卫青→刘彻",
+      "source_snippet": "卫青顿首，转而问随侍医官情况，答曰静养几日便可，才想起请罪：“是臣思虑不周了，臣这就告退，返回长安。”",
+      "raw_triple": "[卫青] [请罪] [刘彻] || 卫青顿首，转而问随侍医官情况，答曰静养几日便可，才想起请罪：“是臣思虑不周了，臣这就告退，返回长安。”"
+    },
+    {
+      "subject_raw": "卫青",
+      "subject_normalized": "卫青",
+      "action": "注视",
+      "object_raw": "刘彻",
+      "object_normalized": "刘彻",
+      "direction": "卫青→刘彻",
+      "source_snippet": "时隔两个月立在刘彻榻前，卫青才觉自己这身骑装带了外边初秋的寒意。",
+      "raw_triple": "[卫青] [注视] [刘彻] || 时隔两个月立在刘彻榻前，卫青才觉自己这身骑装带了外边初秋的寒意。"
+    },
+    {
+      "subject_raw": "刘彻",
+      "subject_normalized": "刘彻",
+      "action": "睁开眼",
+      "object_raw": "卫青",
+      "object_normalized": "卫青",
+      "direction": "刘彻→卫青",
+      "source_snippet": "他慢慢卸了甲，才一抬头，先前阖目似乎在熟睡的刘彻便睁开眼。",
+      "raw_triple": "[刘彻] [睁开眼] [卫青] || 他慢慢卸了甲，才一抬头，先前阖目似乎在熟睡的刘彻便睁开眼。"
+    },
+    {
+      "subject_raw": "卫青",
+      "subject_normalized": "卫青",
+      "action": "说",
+      "object_raw": "刘彻",
+      "object_normalized": "刘彻",
+      "direction": "卫青→刘彻",
+      "source_snippet": "卫青低声道：“陛下瘦了不少。”",
+      "raw_triple": "[卫青] [说] [刘彻] || 卫青低声道：“陛下瘦了不少。”"
+    },
+    {
+      "subject_raw": "刘彻",
+      "subject_normalized": "刘彻",
+      "action": "回答",
+      "object_raw": "卫青",
+      "object_normalized": "卫青",
+      "direction": "刘彻→卫青",
+      "source_snippet": "“还是仲卿有两句实话。”皇帝声音很轻，但总归有些底气。“他们都说朕形容不变呢。”",
+      "raw_triple": "[刘彻] [回答] [卫青] || “还是仲卿有两句实话。”皇帝声音很轻，但总归有些底气。“他们都说朕形容不变呢。”"
+    },
+    {
+      "subject_raw": "刘彻",
+      "subject_normalized": "刘彻",
+      "action": "拉住手",
+      "object_raw": "卫青",
+      "object_normalized": "卫青",
+      "direction": "刘彻→卫青",
+      "source_snippet": "卫青走过去，刘彻拉住他的手，手心依然有些烫。",
+      "raw_triple": "[刘彻] [拉住手] [卫青] || 卫青走过去，刘彻拉住他的手，手心依然有些烫。"
+    },
+    {
+      "subject_raw": "刘彻",
+      "subject_normalized": "刘彻",
+      "action": "请求",
+      "object_raw": "卫青",
+      "object_normalized": "卫青",
+      "direction": "刘彻→卫青",
+      "source_snippet": "“陪朕躺躺。”",
+      "raw_triple": "[刘彻] [请求] [卫青] || “陪朕躺躺。”"
+    },
+    {
+      "subject_raw": "卫青",
+      "subject_normalized": "卫青",
+      "action": "劝说",
+      "object_raw": "刘彻",
+      "object_normalized": "刘彻",
+      "direction": "卫青→刘彻",
+      "source_snippet": "卫青顿时感觉每次都低估了刘彻的心思。“陛下，这恐怕……不合规矩吧。”",
+      "raw_triple": "[卫青] [劝说] [刘彻] || 卫青顿时感觉每次都低估了刘彻的心思。“陛下，这恐怕……不合规矩吧。”"
+    },
+    {
+      "subject_raw": "刘彻",
+      "subject_normalized": "刘彻",
+      "action": "说",
+      "object_raw": "卫青",
+      "object_normalized": "卫青",
+      "direction": "刘彻→卫青",
+      "source_snippet": "“要什么规矩，朕就是规矩。”",
+      "raw_triple": "[刘彻] [说] [卫青] || “要什么规矩，朕就是规矩。”"
+    },
+    {
+      "subject_raw": "卫青",
+      "subject_normalized": "卫青",
+      "action": "回答",
+      "object_raw": "刘彻",
+      "object_normalized": "刘彻",
+      "direction": "卫青→刘彻",
+      "source_snippet": "“……诺。”",
+      "raw_triple": "[卫青] [回答] [刘彻] || “……诺。”"
+    },
+    {
+      "subject_raw": "刘彻",
+      "subject_normalized": "刘彻",
+      "action": "命令",
+      "object_raw": "卫青",
+      "object_normalized": "卫青",
+      "direction": "刘彻→卫青",
+      "source_snippet": "“换，就在朕跟前换。”",
+      "raw_triple": "[刘彻] [命令] [卫青] || “换，就在朕跟前换。”"
+    },
+    {
+      "subject_raw": "刘彻",
+      "subject_normalized": "刘彻",
+      "action": "调笑",
+      "object_raw": "卫青",
+      "object_normalized": "卫青",
+      "direction": "刘彻→卫青",
+      "source_snippet": "刘彻道，又轻轻笑起来，“你还有哪里是朕没看过的……”",
+      "raw_triple": "[刘彻] [调笑] [卫青] || 刘彻道，又轻轻笑起来，“你还有哪里是朕没看过的……”"
+    },
+    {
+      "subject_raw": "刘彻",
+      "subject_normalized": "刘彻",
+      "action": "注视",
+      "object_raw": "卫青",
+      "object_normalized": "卫青",
+      "direction": "刘彻→卫青",
+      "source_snippet": "但卫青其实还有另一重顾虑，事到如今避无可避。刘彻已经看到他右手小臂上包扎的绷带。",
+      "raw_triple": "[刘彻] [注视] [卫青] || 但卫青其实还有另一重顾虑，事到如今避无可避。刘彻已经看到他右手小臂上包扎的绷带。"
+    },
+    {
+      "subject_raw": "刘彻",
+      "subject_normalized": "刘彻",
+      "action": "问",
+      "object_raw": "卫青",
+      "object_normalized": "卫青",
+      "direction": "刘彻→卫青",
+      "source_snippet": "刘彻已经看到他右手小臂上包扎的绷带。“疼吗？”",
+      "raw_triple": "[刘彻] [问] [卫青] || 刘彻已经看到他右手小臂上包扎的绷带。“疼吗？”"
+    },
+    {
+      "subject_raw": "卫青",
+      "subject_normalized": "卫青",
+      "action": "回答",
+      "object_raw": "刘彻",
+      "object_normalized": "刘彻",
+      "direction": "卫青→刘彻",
+      "source_snippet": "“不疼。”他本能地回答。",
+      "raw_triple": "[卫青] [回答] [刘彻] || “不疼。”他本能地回答。"
+    },
+    {
+      "subject_raw": "刘彻",
+      "subject_normalized": "刘彻",
+      "action": "知道",
+      "object_raw": "卫青",
+      "object_normalized": "卫青",
+      "direction": "刘彻→卫青",
+      "source_snippet": "“不对，陛下是怎么知道……”“你让你的人盯着朕，朕自然也派人盯着你。”",
+      "raw_triple": "[刘彻] [知道] [卫青] || “不对，陛下是怎么知道……”“你让你的人盯着朕，朕自然也派人盯着你。”"
+    },
+    {
+      "subject_raw": "刘彻",
+      "subject_normalized": "刘彻",
+      "action": "派人盯着",
+      "object_raw": "卫青",
+      "object_normalized": "卫青",
+      "direction": "刘彻→卫青",
+      "source_snippet": "“不对，陛下是怎么知道……”“你让你的人盯着朕，朕自然也派人盯着你。”",
+      "raw_triple": "[刘彻] [派人盯着] [卫青] || “不对，陛下是怎么知道……”“你让你的人盯着朕，朕自然也派人盯着你。”"
+    },
+    {
+      "subject_raw": "刘彻",
+      "subject_normalized": "刘彻",
+      "action": "说爱重不相疑",
+      "object_raw": "卫青",
+      "object_normalized": "卫青",
+      "direction": "刘彻→卫青",
+      "source_snippet": "刘彻有次曾同他说特别爱重他这点，还说朕与仲卿是两不相疑啊。",
+      "raw_triple": "[刘彻] [说爱重不相疑] [卫青] || 刘彻有次曾同他说特别爱重他这点，还说朕与仲卿是两不相疑啊。"
+    },
+    {
+      "subject_raw": "刘彻",
+      "subject_normalized": "刘彻",
+      "action": "进封",
+      "object_raw": "卫青",
+      "object_normalized": "卫青",
+      "direction": "刘彻→卫青",
+      "source_snippet": "而在他进封大司马大将军后",
+      "raw_triple": "[刘彻] [进封] [卫青] || 而在他进封大司马大将军后"
+    },
+    {
+      "subject_raw": "刘彻",
+      "subject_normalized": "刘彻",
+      "action": "关心",
+      "object_raw": "卫青",
+      "object_normalized": "卫青",
+      "direction": "刘彻→卫青",
+      "source_snippet": "陛下也特别关心他的安全。",
+      "raw_triple": "[刘彻] [关心] [卫青] || 陛下也特别关心他的安全。"
+    },
+    {
+      "subject_raw": "刘彻",
+      "subject_normalized": "刘彻",
+      "action": "命令",
+      "object_raw": "卫青",
+      "object_normalized": "卫青",
+      "direction": "刘彻→卫青",
+      "source_snippet": "“给朕看看。”",
+      "raw_triple": "[刘彻] [命令] [卫青] || “给朕看看。”"
+    },
+    {
+      "subject_raw": "刘彻",
+      "subject_normalized": "刘彻",
+      "action": "让位置",
+      "object_raw": "卫青",
+      "object_normalized": "卫青",
+      "direction": "刘彻→卫青",
+      "source_snippet": "刘彻往里让了让，又拍了拍身侧位置，卫青很习惯地躺下了。",
+      "raw_triple": "[刘彻] [让位置] [卫青] || 刘彻往里让了让，又拍了拍身侧位置，卫青很习惯地躺下了。"
+    },
+    {
+      "subject_raw": "刘彻",
+      "subject_normalized": "刘彻",
+      "action": "触摸并注视",
+      "object_raw": "卫青",
+      "object_normalized": "卫青",
+      "direction": "刘彻→卫青",
+      "source_snippet": "刘彻捉着他右臂，眯着眼仔细看了看。",
+      "raw_triple": "[刘彻] [触摸并注视] [卫青] || 刘彻捉着他右臂，眯着眼仔细看了看。"
+    },
+    {
+      "subject_raw": "刘彻",
+      "subject_normalized": "刘彻",
+      "action": "说",
+      "object_raw": "卫青",
+      "object_normalized": "卫青",
+      "direction": "刘彻→卫青",
+      "source_snippet": "“那李敢，是太僭越了。”",
+      "raw_triple": "[刘彻] [说] [卫青] || “那李敢，是太僭越了。”"
+    },
+    {
+      "subject_raw": "卫青",
+      "subject_normalized": "卫青",
+      "action": "回答",
+      "object_raw": "刘彻",
+      "object_normalized": "刘彻",
+      "direction": "卫青→刘彻",
+      "source_snippet": "“臣不愿再追究了，毕竟，李家……”",
+      "raw_triple": "[卫青] [回答] [刘彻] || “臣不愿再追究了，毕竟，李家……”"
+    },
+    {
+      "subject_raw": "刘彻",
+      "subject_normalized": "刘彻",
+      "action": "转过身四目相对",
+      "object_raw": "卫青",
+      "object_normalized": "卫青",
+      "direction": "刘彻→卫青",
+      "source_snippet": "刘彻转过身，与他四目相对。",
+      "raw_triple": "[刘彻] [转过身四目相对] [卫青] || 刘彻转过身，与他四目相对。"
+    },
+    {
+      "subject_raw": "刘彻",
+      "subject_normalized": "刘彻",
+      "action": "张臂紧紧拥抱",
+      "object_raw": "卫青",
+      "object_normalized": "卫青",
+      "direction": "刘彻→卫青",
+      "source_snippet": "然后天子忽然张臂，紧紧地抱住了他。",
+      "raw_triple": "[刘彻] [张臂紧紧拥抱] [卫青] || 然后天子忽然张臂，紧紧地抱住了他。"
+    },
+    {
+      "subject_raw": "卫青",
+      "subject_normalized": "卫青",
+      "action": "呼唤",
+      "object_raw": "刘彻",
+      "object_normalized": "刘彻",
+      "direction": "卫青→刘彻",
+      "source_snippet": "“陛下……”",
+      "raw_triple": "[卫青] [呼唤] [刘彻] || “陛下……”"
+    },
+    {
+      "subject_raw": "刘彻",
+      "subject_normalized": "刘彻",
+      "action": "安慰",
+      "object_raw": "卫青",
+      "object_normalized": "卫青",
+      "direction": "刘彻→卫青",
+      "source_snippet": "“你受委屈了。”",
+      "raw_triple": "[刘彻] [安慰] [卫青] || “你受委屈了。”"
+    },
+    {
+      "subject_raw": "卫青",
+      "subject_normalized": "卫青",
+      "action": "回答",
+      "object_raw": "刘彻",
+      "object_normalized": "刘彻",
+      "direction": "卫青→刘彻",
+      "source_snippet": "卫青有些哭笑不得，有时这位陛下就像小孩子一样，不大讲理，又固执得要紧。“臣不委屈。”",
+      "raw_triple": "[卫青] [回答] [刘彻] || 卫青有些哭笑不得，有时这位陛下就像小孩子一样，不大讲理，又固执得要紧。“臣不委屈。”"
+    },
+    {
+      "subject_raw": "刘彻",
+      "subject_normalized": "刘彻",
+      "action": "问",
+      "object_raw": "卫青",
+      "object_normalized": "卫青",
+      "direction": "刘彻→卫青",
+      "source_snippet": "“漠北一战，还不够你委屈的？”",
+      "raw_triple": "[刘彻] [问] [卫青] || “漠北一战，还不够你委屈的？”"
+    },
+    {
+      "subject_raw": "卫青",
+      "subject_normalized": "卫青",
+      "action": "回答",
+      "object_raw": "刘彻",
+      "object_normalized": "刘彻",
+      "direction": "卫青→刘彻",
+      "source_snippet": "“臣……只是遵照陛下的旨意，何谈委屈。”",
+      "raw_triple": "[卫青] [回答] [刘彻] || “臣……只是遵照陛下的旨意，何谈委屈。”"
+    },
+    {
+      "subject_raw": "刘彻",
+      "subject_normalized": "刘彻",
+      "action": "说",
+      "object_raw": "卫青",
+      "object_normalized": "卫青",
+      "direction": "刘彻→卫青",
+      "source_snippet": "“你不在意自己名声，朕替你在意，你出生入死，却总有那不长眼的编排你有私心，仲卿哪来什么私心呢？反倒是朕，私心不少。”",
+      "raw_triple": "[刘彻] [说] [卫青] || “你不在意自己名声，朕替你在意，你出生入死，却总有那不长眼的编排你有私心，仲卿哪来什么私心呢？反倒是朕，私心不少。”"
+    },
+    {
+      "subject_raw": "刘彻",
+      "subject_normalized": "刘彻",
+      "action": "松开",
+      "object_raw": "卫青",
+      "object_normalized": "卫青",
+      "direction": "刘彻→卫青",
+      "source_snippet": "刘彻松开他，唯手臂仍虚虚搭在他身上，近距离看，整张脸依然是犹有病容，但一双深邃的眼更显明亮。",
+      "raw_triple": "[刘彻] [松开] [卫青] || 刘彻松开他，唯手臂仍虚虚搭在他身上，近距离看，整张脸依然是犹有病容，但一双深邃的眼更显明亮。"
+    },
+    {
+      "subject_raw": "刘彻",
+      "subject_normalized": "刘彻",
+      "action": "注视",
+      "object_raw": "卫青",
+      "object_normalized": "卫青",
+      "direction": "刘彻→卫青",
+      "source_snippet": "刘彻松开他，唯手臂仍虚虚搭在他身上，近距离看，整张脸依然是犹有病容，但一双深邃的眼更显明亮。",
+      "raw_triple": "[刘彻] [注视] [卫青] || 刘彻松开他，唯手臂仍虚虚搭在他身上，近距离看，整张脸依然是犹有病容，但一双深邃的眼更显明亮。"
+    },
+    {
+      "subject_raw": "刘彻",
+      "subject_normalized": "刘彻",
+      "action": "安排指示",
+      "object_raw": "卫青",
+      "object_normalized": "卫青",
+      "direction": "刘彻→卫青",
+      "source_snippet": "“私心让你带人，私心让去病心无旁骛去做那柄最锋利的剑，公孙贺李广，一个个都不是省油的灯，年轻的几个，曹襄公孙敖他们，朕有意给他们个立功机会，从前的韩说苏建，朕也想看看他们到底是不是可造之材，这些个亲戚内侍，所有的试验，朕都叫你一个人去做，想想实在是一件费力又劳心的苦差事……”",
+      "raw_triple": "[刘彻] [安排指示] [卫青] || “私心让你带人，私心让去病心无旁骛去做那柄最锋利的剑，公孙贺李广，一个个都不是省油的灯，年轻的几个，曹襄公孙敖他们，朕有意给他们个立功机会，从前的韩说苏建，朕也想看看他们到底是不是可造之材，这些个亲戚内侍，所有的试验，朕都叫你一个人去做，想想实在是一件费力又劳心的苦差事……”"
+    },
+    {
+      "subject_raw": "卫青",
+      "subject_normalized": "卫青",
+      "action": "回答",
+      "object_raw": "刘彻",
+      "object_normalized": "刘彻",
+      "direction": "卫青→刘彻",
+      "source_snippet": "“青只想为陛下分忧，能做得的事，便勉力做得，不叫陛下再费心了。”",
+      "raw_triple": "[卫青] [回答] [刘彻] || “青只想为陛下分忧，能做得的事，便勉力做得，不叫陛下再费心了。”"
+    },
+    {
+      "subject_raw": "刘彻",
+      "subject_normalized": "刘彻",
+      "action": "叹息",
+      "object_raw": "卫青",
+      "object_normalized": "卫青",
+      "direction": "刘彻→卫青",
+      "source_snippet": "皇帝最终只长叹一声。“你啊。”",
+      "raw_triple": "[刘彻] [叹息] [卫青] || 皇帝最终只长叹一声。“你啊。”"
+    },
+    {
+      "subject_raw": "卫青",
+      "subject_normalized": "卫青",
+      "action": "劝说",
+      "object_raw": "刘彻",
+      "object_normalized": "刘彻",
+      "direction": "卫青→刘彻",
+      "source_snippet": "“陛下又何必说这些，还病着呢。”",
+      "raw_triple": "[卫青] [劝说] [刘彻] || “陛下又何必说这些，还病着呢。”"
+    },
+    {
+      "subject_raw": "刘彻",
+      "subject_normalized": "刘彻",
+      "action": "回答",
+      "object_raw": "卫青",
+      "object_normalized": "卫青",
+      "direction": "刘彻→卫青",
+      "source_snippet": "刘彻一笑。“见了你病好了一大半了。”",
+      "raw_triple": "[刘彻] [回答] [卫青] || 刘彻一笑。“见了你病好了一大半了。”"
+    },
+    {
+      "subject_raw": "卫青",
+      "subject_normalized": "卫青",
+      "action": "问",
+      "object_raw": "刘彻",
+      "object_normalized": "刘彻",
+      "direction": "卫青→刘彻",
+      "source_snippet": "卫青脸上赧然，又想起问：“此次陛下召臣来，是为了……”",
+      "raw_triple": "[卫青] [问] [刘彻] || 卫青脸上赧然，又想起问：“此次陛下召臣来，是为了……”"
+    },
+    {
+      "subject_raw": "刘彻",
+      "subject_normalized": "刘彻",
+      "action": "回答",
+      "object_raw": "卫青",
+      "object_normalized": "卫青",
+      "direction": "刘彻→卫青",
+      "source_snippet": "“有人刺杀了大将军，朕总要亲眼看，才知道情况。”",
+      "raw_triple": "[刘彻] [回答] [卫青] || “有人刺杀了大将军，朕总要亲眼看，才知道情况。”"
+    },
+    {
+      "subject_raw": "刘彻",
+      "subject_normalized": "刘彻",
+      "action": "调笑",
+      "object_raw": "卫青",
+      "object_normalized": "卫青",
+      "direction": "刘彻→卫青",
+      "source_snippet": "刘彻看他呆住的样子颇觉好笑，又道：“当然，朕躺这儿也挺久了，是……思风月了。”",
+      "raw_triple": "[刘彻] [调笑] [卫青] || 刘彻看他呆住的样子颇觉好笑，又道：“当然，朕躺这儿也挺久了，是……思风月了。”"
+    },
+    {
+      "subject_raw": "卫青",
+      "subject_normalized": "卫青",
+      "action": "劝说",
+      "object_raw": "刘彻",
+      "object_normalized": "刘彻",
+      "direction": "卫青→刘彻",
+      "source_snippet": "饶是对刘彻这一套已经非常习惯，卫青还是不免感觉面上更烧了，讷讷道：“陛下应该好好养病才是，怎么——”",
+      "raw_triple": "[卫青] [劝说] [刘彻] || 饶是对刘彻这一套已经非常习惯，卫青还是不免感觉面上更烧了，讷讷道：“陛下应该好好养病才是，怎么——”"
+    },
+    {
+      "subject_raw": "刘彻",
+      "subject_normalized": "刘彻",
+      "action": "性接触",
+      "object_raw": "卫青",
+      "object_normalized": "卫青",
+      "direction": "刘彻→卫青",
+      "source_snippet": "岂料刘彻的手已经滑进他衣里，还很轻车熟路。",
+      "raw_triple": "[刘彻] [性接触] [卫青] || 岂料刘彻的手已经滑进他衣里，还很轻车熟路。"
+    },
+    {
+      "subject_raw": "卫青",
+      "subject_normalized": "卫青",
+      "action": "回忆劝说",
+      "object_raw": "刘彻",
+      "object_normalized": "刘彻",
+      "direction": "卫青→刘彻",
+      "source_snippet": "他不得不在下朝后提醒刘彻收敛些。",
+      "raw_triple": "[卫青] [回忆劝说] [刘彻] || 他不得不在下朝后提醒刘彻收敛些。"
+    },
+    {
+      "subject_raw": "刘彻",
+      "subject_normalized": "刘彻",
+      "action": "坦白",
+      "object_raw": "卫青",
+      "object_normalized": "卫青",
+      "direction": "刘彻→卫青",
+      "source_snippet": "这位陛下倒是坦白告诉他，有时朝上看着他心里便会起念，只想来一出白日宣淫了事，能继续把事情讨论完已经很了不起了。",
+      "raw_triple": "[刘彻] [坦白] [卫青] || 这位陛下倒是坦白告诉他，有时朝上看着他心里便会起念，只想来一出白日宣淫了事，能继续把事情讨论完已经很了不起了。"
+    },
+    {
+      "subject_raw": "卫青",
+      "subject_normalized": "卫青",
+      "action": "做骑乘姿势",
+      "object_raw": "刘彻",
+      "object_normalized": "刘彻",
+      "direction": "卫青→刘彻",
+      "source_snippet": "念及刘彻体力尚未恢复，他只还是做了个骑乘姿势。",
+      "raw_triple": "[卫青] [做骑乘姿势] [刘彻] || 念及刘彻体力尚未恢复，他只还是做了个骑乘姿势。"
+    },
+    {
+      "subject_raw": "刘彻",
+      "subject_normalized": "刘彻",
+      "action": "遣走近臣独留",
+      "object_raw": "卫青",
+      "object_normalized": "卫青",
+      "direction": "刘彻→卫青",
+      "source_snippet": "譬如从漠北回来，才回朝，入宣室殿向陛下奏报、因李将军之事请罪，刘彻显然吃了一惊，略听一会儿便遣走近臣独留他，甚至连去病也遣走了。",
+      "raw_triple": "[刘彻] [遣走近臣独留] [卫青] || 譬如从漠北回来，才回朝，入宣室殿向陛下奏报、因李将军之事请罪，刘彻显然吃了一惊，略听一会儿便遣走近臣独留他，甚至连去病也遣走了。"
+    },
+    {
+      "subject_raw": "卫青",
+      "subject_normalized": "卫青",
+      "action": "跪地请罪",
+      "object_raw": "刘彻",
+      "object_normalized": "刘彻",
+      "direction": "卫青→刘彻",
+      "source_snippet": "他还以为陛下是想细细问当时缘由，待摒退众人，他便再度跪地请罪。",
+      "raw_triple": "[卫青] [跪地请罪] [刘彻] || 他还以为陛下是想细细问当时缘由，待摒退众人，他便再度跪地请罪。"
+    },
+    {
+      "subject_raw": "刘彻",
+      "subject_normalized": "刘彻",
+      "action": "走过来拉起",
+      "object_raw": "卫青",
+      "object_normalized": "卫青",
+      "direction": "刘彻→卫青",
+      "source_snippet": "刘彻却走过来把他拉起道：“这里只有你我二人，就别客套了。”",
+      "raw_triple": "[刘彻] [走过来拉起] [卫青] || 刘彻却走过来把他拉起道：“这里只有你我二人，就别客套了。”"
+    },
+    {
+      "subject_raw": "刘彻",
+      "subject_normalized": "刘彻",
+      "action": "命令",
+      "object_raw": "卫青",
+      "object_normalized": "卫青",
+      "direction": "刘彻→卫青",
+      "source_snippet": "刘彻却走过来把他拉起道：“这里只有你我二人，就别客套了。”",
+      "raw_triple": "[刘彻] [命令] [卫青] || 刘彻却走过来把他拉起道：“这里只有你我二人，就别客套了。”"
+    },
+    {
+      "subject_raw": "卫青",
+      "subject_normalized": "卫青",
+      "action": "说",
+      "object_raw": "刘彻",
+      "object_normalized": "刘彻",
+      "direction": "卫青→刘彻",
+      "source_snippet": "“臣确实没有故意派李将军分兵合围……”",
+      "raw_triple": "[卫青] [说] [刘彻] || “臣确实没有故意派李将军分兵合围……”"
+    },
+    {
+      "subject_raw": "刘彻",
+      "subject_normalized": "刘彻",
+      "action": "打断",
+      "object_raw": "卫青",
+      "object_normalized": "卫青",
+      "direction": "刘彻→卫青",
+      "source_snippet": "“别说这个了。”",
+      "raw_triple": "[刘彻] [打断] [卫青] || “别说这个了。”"
+    },
+    {
+      "subject_raw": "刘彻",
+      "subject_normalized": "刘彻",
+      "action": "触摸卸甲",
+      "object_raw": "卫青",
+      "object_normalized": "卫青",
+      "direction": "刘彻→卫青",
+      "source_snippet": "刘彻伸手就把他的甲给卸了。",
+      "raw_triple": "[刘彻] [触摸卸甲] [卫青] || 刘彻伸手就把他的甲给卸了。"
+    },
+    {
+      "subject_raw": "刘彻",
+      "subject_normalized": "刘彻",
+      "action": "命令",
+      "object_raw": "卫青",
+      "object_normalized": "卫青",
+      "direction": "刘彻→卫青",
+      "source_snippet": "陛下坐在那椅子上，命他坐上来“上下若飞”。",
+      "raw_triple": "[刘彻] [命令] [卫青] || 陛下坐在那椅子上，命他坐上来“上下若飞”。"
+    },
+    {
+      "subject_raw": "刘彻",
+      "subject_normalized": "刘彻",
+      "action": "性接触",
+      "object_raw": "卫青",
+      "object_normalized": "卫青",
+      "direction": "刘彻→卫青",
+      "source_snippet": "皇帝最后向上顶，泄入他体内，还拿了个小道具来堵住。",
+      "raw_triple": "[刘彻] [性接触] [卫青] || 皇帝最后向上顶，泄入他体内，还拿了个小道具来堵住。"
+    },
+    {
+      "subject_raw": "刘彻",
+      "subject_normalized": "刘彻",
+      "action": "性接触",
+      "object_raw": "卫青",
+      "object_normalized": "卫青",
+      "direction": "刘彻→卫青",
+      "source_snippet": "到了鸳鸾殿的榻上，天子取下那个小东西，方才的液体便顺着他大腿一路蜿蜒流下。",
+      "raw_triple": "[刘彻] [性接触] [卫青] || 到了鸳鸾殿的榻上，天子取下那个小东西，方才的液体便顺着他大腿一路蜿蜒流下。"
+    },
+    {
+      "subject_raw": "刘彻",
+      "subject_normalized": "刘彻",
+      "action": "性接触",
+      "object_raw": "卫青",
+      "object_normalized": "卫青",
+      "direction": "刘彻→卫青",
+      "source_snippet": "刘彻盯着看，显然欲望又炽，他有些羞耻地挡住眼睛。",
+      "raw_triple": "[刘彻] [性接触] [卫青] || 刘彻盯着看，显然欲望又炽，他有些羞耻地挡住眼睛。"
+    },
+    {
+      "subject_raw": "刘彻",
+      "subject_normalized": "刘彻",
+      "action": "询问",
+      "object_raw": "卫青",
+      "object_normalized": "卫青",
+      "direction": "刘彻→卫青",
+      "source_snippet": "刘彻拿开了，轻声道：“大将军害臊了？”",
+      "raw_triple": "[刘彻] [询问] [卫青] || 刘彻拿开了，轻声道：“大将军害臊了？”"
+    },
+    {
+      "subject_raw": "刘彻",
+      "subject_normalized": "刘彻",
+      "action": "性接触",
+      "object_raw": "卫青",
+      "object_normalized": "卫青",
+      "direction": "刘彻→卫青",
+      "source_snippet": "刘彻按着他，翻来覆去又折腾一个时辰。",
+      "raw_triple": "[刘彻] [性接触] [卫青] || 刘彻按着他，翻来覆去又折腾一个时辰。"
+    },
+    {
+      "subject_raw": "刘彻",
+      "subject_normalized": "刘彻",
+      "action": "性接触",
+      "object_raw": "卫青",
+      "object_normalized": "卫青",
+      "direction": "刘彻→卫青",
+      "source_snippet": "刘彻尤有一个癖好，便是让他在自己身上前后摆动，不断容纳吞吃自己的欲望。",
+      "raw_triple": "[刘彻] [性接触] [卫青] || 刘彻尤有一个癖好，便是让他在自己身上前后摆动，不断容纳吞吃自己的欲望。"
+    },
+    {
+      "subject_raw": "刘彻",
+      "subject_normalized": "刘彻",
+      "action": "性接触",
+      "object_raw": "卫青",
+      "object_normalized": "卫青",
+      "direction": "刘彻→卫青",
+      "source_snippet": "同时手不断摸他小腹，似要隔着皮肤感知在他身体里那柄硬得吓人的凶器。",
+      "raw_triple": "[刘彻] [性接触] [卫青] || 同时手不断摸他小腹，似要隔着皮肤感知在他身体里那柄硬得吓人的凶器。"
+    },
+    {
+      "subject_raw": "刘彻",
+      "subject_normalized": "刘彻",
+      "action": "握",
+      "object_raw": "卫青",
+      "object_normalized": "卫青",
+      "direction": "刘彻→卫青",
+      "source_snippet": "又两手握着他腰，看似掌握他的节奏，实际由着他怎么行动。",
+      "raw_triple": "[刘彻] [握] [卫青] || 又两手握着他腰，看似掌握他的节奏，实际由着他怎么行动。"
+    },
+    {
+      "subject_raw": "刘彻",
+      "subject_normalized": "刘彻",
+      "action": "说",
+      "object_raw": "卫青",
+      "object_normalized": "卫青",
+      "direction": "刘彻→卫青",
+      "source_snippet": "“仲卿真令人……爱不释手。”",
+      "raw_triple": "[刘彻] [说] [卫青] || “仲卿真令人……爱不释手。”"
+    },
+    {
+      "subject_raw": "卫青",
+      "subject_normalized": "卫青",
+      "action": "劝说",
+      "object_raw": "刘彻",
+      "object_normalized": "刘彻",
+      "direction": "卫青→刘彻",
+      "source_snippet": "他道：“陛下，别太折腾了……”",
+      "raw_triple": "[卫青] [劝说] [刘彻] || 他道：“陛下，别太折腾了……”"
+    },
+    {
+      "subject_raw": "刘彻",
+      "subject_normalized": "刘彻",
+      "action": "听从",
+      "object_raw": "卫青",
+      "object_normalized": "卫青",
+      "direction": "刘彻→卫青",
+      "source_snippet": "刘彻平时不怎么听劝，但他说的话倒还是听一些。于是退出来，让他做些手上功夫。",
+      "raw_triple": "[刘彻] [听从] [卫青] || 刘彻平时不怎么听劝，但他说的话倒还是听一些。于是退出来，让他做些手上功夫。"
+    },
+    {
+      "subject_raw": "刘彻",
+      "subject_normalized": "刘彻",
+      "action": "性接触",
+      "object_raw": "卫青",
+      "object_normalized": "卫青",
+      "direction": "刘彻→卫青",
+      "source_snippet": "弄到一半，刘彻又有了新想法，双指并入他体内，按向熟悉的那个点。",
+      "raw_triple": "[刘彻] [性接触] [卫青] || 弄到一半，刘彻又有了新想法，双指并入他体内，按向熟悉的那个点。"
+    },
+    {
+      "subject_raw": "刘彻",
+      "subject_normalized": "刘彻",
+      "action": "在耳边说",
+      "object_raw": "卫青",
+      "object_normalized": "卫青",
+      "direction": "刘彻→卫青",
+      "source_snippet": "还在他耳边暧昧道：“没带那东西，否则……”",
+      "raw_triple": "[刘彻] [在耳边说] [卫青] || 还在他耳边暧昧道：“没带那东西，否则……”"
+    },
+    {
+      "subject_raw": "卫青",
+      "subject_normalized": "卫青",
+      "action": "劝说",
+      "object_raw": "刘彻",
+      "object_normalized": "刘彻",
+      "direction": "卫青→刘彻",
+      "source_snippet": "他无奈道：“纵欲伤身……”",
+      "raw_triple": "[卫青] [劝说] [刘彻] || 他无奈道：“纵欲伤身……”"
+    },
+    {
+      "subject_raw": "刘彻",
+      "subject_normalized": "刘彻",
+      "action": "反问",
+      "object_raw": "卫青",
+      "object_normalized": "卫青",
+      "direction": "刘彻→卫青",
+      "source_snippet": "“是吗？可仲卿不也很享受？”",
+      "raw_triple": "[刘彻] [反问] [卫青] || “是吗？可仲卿不也很享受？”"
+    },
+    {
+      "subject_raw": "卫青",
+      "subject_normalized": "卫青",
+      "action": "拨开手掌",
+      "object_raw": "刘彻",
+      "object_normalized": "刘彻",
+      "direction": "卫青→刘彻",
+      "source_snippet": "倒没话了，刘彻是会拿捏他，手指上的动作让他有些受不了，干脆拨开刘彻手掌。",
+      "raw_triple": "[卫青] [拨开手掌] [刘彻] || 倒没话了，刘彻是会拿捏他，手指上的动作让他有些受不了，干脆拨开刘彻手掌。"
+    },
+    {
+      "subject_raw": "卫青",
+      "subject_normalized": "卫青",
+      "action": "性接触",
+      "object_raw": "刘彻",
+      "object_normalized": "刘彻",
+      "direction": "卫青→刘彻",
+      "source_snippet": "扶住那处往体内引，最后竟是自己在天子身上起伏，享用之意更浓。",
+      "raw_triple": "[卫青] [性接触] [刘彻] || 扶住那处往体内引，最后竟是自己在天子身上起伏，享用之意更浓。"
+    },
+    {
+      "subject_raw": "刘彻",
+      "subject_normalized": "刘彻",
+      "action": "调侃",
+      "object_raw": "卫青",
+      "object_normalized": "卫青",
+      "direction": "刘彻→卫青",
+      "source_snippet": "刘彻调侃道：“好啊，倒是你在朕这儿调风弄月了。弄完又不认，哪有这样的道理？”",
+      "raw_triple": "[刘彻] [调侃] [卫青] || 刘彻调侃道：“好啊，倒是你在朕这儿调风弄月了。弄完又不认，哪有这样的道理？”"
+    },
+    {
+      "subject_raw": "刘彻",
+      "subject_normalized": "刘彻",
+      "action": "犒劳",
+      "object_raw": "卫青",
+      "object_normalized": "卫青",
+      "direction": "刘彻→卫青",
+      "source_snippet": "“当是朕犒劳你守长安的功劳。”",
+      "raw_triple": "[刘彻] [犒劳] [卫青] || “当是朕犒劳你守长安的功劳。”"
+    },
+    {
+      "subject_raw": "刘彻",
+      "subject_normalized": "刘彻",
+      "action": "揽入怀中",
+      "object_raw": "卫青",
+      "object_normalized": "卫青",
+      "direction": "刘彻→卫青",
+      "source_snippet": "刘彻揽他在怀中，是捉住了烈烈长风，也揽住了皎皎明月。",
+      "raw_triple": "[刘彻] [揽入怀中] [卫青] || 刘彻揽他在怀中，是捉住了烈烈长风，也揽住了皎皎明月。"
+    },
+    {
+      "subject_raw": "刘彻",
+      "subject_normalized": "刘彻",
+      "action": "说",
+      "object_raw": "卫青",
+      "object_normalized": "卫青",
+      "direction": "刘彻→卫青",
+      "source_snippet": "“朕明天去甘泉宫。”",
+      "raw_triple": "[刘彻] [说] [卫青] || “朕明天去甘泉宫。”"
+    },
+    {
+      "subject_raw": "卫青",
+      "subject_normalized": "卫青",
+      "action": "劝说",
+      "object_raw": "刘彻",
+      "object_normalized": "刘彻",
+      "direction": "卫青→刘彻",
+      "source_snippet": "“陛下还体弱，那温泉里可不能再行此事，被热水一激，容易——”",
+      "raw_triple": "[卫青] [劝说] [刘彻] || “陛下还体弱，那温泉里可不能再行此事，被热水一激，容易——”"
+    },
+    {
+      "subject_raw": "刘彻",
+      "subject_normalized": "刘彻",
+      "action": "回答",
+      "object_raw": "卫青",
+      "object_normalized": "卫青",
+      "direction": "刘彻→卫青",
+      "source_snippet": "“谁说朕是为了在温泉里与你……朕是去还愿！神君保佑朕这次病愈。”",
+      "raw_triple": "[刘彻] [回答] [卫青] || “谁说朕是为了在温泉里与你……朕是去还愿！神君保佑朕这次病愈。”"
+    }
+  ]
+}

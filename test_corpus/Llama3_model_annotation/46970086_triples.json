@@ -1,0 +1,151 @@
+{
+  "work_id": 46970086,
+  "title": "私泻禁中语",
+  "author": "Ringing",
+  "original_words": 2055,
+  "updated_words": 2343,
+  "total_triples": 11,
+  "extraction_time_seconds": 62.04,
+  "triples": [
+    {
+      "subject_raw": "卫青",
+      "subject_normalized": "卫青",
+      "action": "婉拒",
+      "object_raw": "刘彻",
+      "object_normalized": "刘彻",
+      "direction": "卫青→刘彻",
+      "source_snippet": "“臣谢陛下厚爱，只是这鸟儿过于张扬，臣恐……”",
+      "raw_triple": "[卫青] [婉拒] [刘彻] || “臣谢陛下厚爱，只是这鸟儿过于张扬，臣恐……”",
+      "chunk_start": 0,
+      "chunk_end": 570
+    },
+    {
+      "subject_raw": "刘彻",
+      "subject_normalized": "刘彻",
+      "action": "命令",
+      "object_raw": "卫青",
+      "object_normalized": "卫青",
+      "direction": "刘彻→卫青",
+      "source_snippet": "仲卿，朕看你颇爱这只鸟儿，朕就将它送给你，你今日便把它捎回去吧。",
+      "raw_triple": "[刘彻] [命令] [卫青] || 仲卿，朕看你颇爱这只鸟儿，朕就将它送给你，你今日便把它捎回去吧。",
+      "chunk_start": 0,
+      "chunk_end": 570
+    },
+    {
+      "subject_raw": "刘彻",
+      "subject_normalized": "刘彻",
+      "action": "命令",
+      "object_raw": "卫青",
+      "object_normalized": "卫青",
+      "direction": "刘彻→卫青",
+      "source_snippet": "仲卿，朕看你颇爱这只鸟儿",
+      "raw_triple": "[刘彻] [命令] [卫青] || 仲卿，朕看你颇爱这只鸟儿",
+      "chunk_start": 0,
+      "chunk_end": 570
+    },
+    {
+      "subject_raw": "刘彻",
+      "subject_normalized": "刘彻",
+      "action": "大喜",
+      "object_raw": "卫青",
+      "object_normalized": "卫青",
+      "direction": "刘彻→卫青",
+      "source_snippet": "刘彻更是大喜",
+      "raw_triple": "[刘彻] [大喜] [卫青] || 刘彻更是大喜",
+      "chunk_start": 570,
+      "chunk_end": 1157
+    },
+    {
+      "subject_raw": "刘彻",
+      "subject_normalized": "刘彻",
+      "action": "命令",
+      "object_raw": "卫青",
+      "object_normalized": "卫青",
+      "direction": "刘彻→卫青",
+      "source_snippet": "刘彻示意内侍将鸟儿带上，便上了马车。",
+      "raw_triple": "[刘彻] [命令] [卫青] || 刘彻示意内侍将鸟儿带上，便上了马车。",
+      "chunk_start": 1753,
+      "chunk_end": 2343
+    },
+    {
+      "subject_raw": "卫青",
+      "subject_normalized": "卫青",
+      "action": "回答",
+      "object_raw": "刘彻",
+      "object_normalized": "刘彻",
+      "direction": "卫青→刘彻",
+      "source_snippet": "“大将军，大将军……”“哈哈哈，这鸟儿可真是……”",
+      "raw_triple": "[卫青] [回答] [刘彻] || “大将军，大将军……”“哈哈哈，这鸟儿可真是……”",
+      "chunk_start": 1753,
+      "chunk_end": 2343
+    },
+    {
+      "subject_raw": "刘彻",
+      "subject_normalized": "刘彻",
+      "action": "安慰",
+      "object_raw": "卫青",
+      "object_normalized": "卫青",
+      "direction": "刘彻→卫青",
+      "source_snippet": "“仲卿，你看这鸟儿最终还是回到你的手上了。”",
+      "raw_triple": "[刘彻] [安慰] [卫青] || “仲卿，你看这鸟儿最终还是回到你的手上了。”",
+      "chunk_start": 1753,
+      "chunk_end": 2343
+    },
+    {
+      "subject_raw": "卫青",
+      "subject_normalized": "卫青",
+      "action": "回答",
+      "object_raw": "刘彻",
+      "object_normalized": "刘彻",
+      "direction": "卫青→刘彻",
+      "source_snippet": "“大将军，大将军……”",
+      "raw_triple": "[卫青] [回答] [刘彻] || “大将军，大将军……”",
+      "chunk_start": 1753,
+      "chunk_end": 2343
+    },
+    {
+      "subject_raw": "刘彻",
+      "subject_normalized": "刘彻",
+      "action": "调笑",
+      "object_raw": "卫青",
+      "object_normalized": "卫青",
+      "direction": "刘彻→卫青",
+      "source_snippet": "“哈哈哈，这鸟儿可真是……”",
+      "raw_triple": "[刘彻] [调笑] [卫青] || “哈哈哈，这鸟儿可真是……”",
+      "chunk_start": 1753,
+      "chunk_end": 2343
+    },
+    {
+      "subject_raw": "卫青",
+      "subject_normalized": "卫青",
+      "action": "回答",
+      "object_raw": "刘彻",
+      "object_normalized": "刘彻",
+      "direction": "卫青→刘彻",
+      "source_snippet": "“仲卿且将这鸟儿借我几日。”",
+      "raw_triple": "[卫青] [回答] [刘彻] || “仲卿且将这鸟儿借我几日。”",
+      "chunk_start": 1753,
+      "chunk_end": 2343
+    },
+    {
+      "subject_raw": "卫青",
+      "subject_normalized": "卫青",
+      "action": "失笑",
+      "object_raw": "刘彻",
+      "object_normalized": "刘彻",
+      "direction": "卫青→刘彻",
+      "source_snippet": "听着那鸟儿嘴里一声声“朕的大将军”，卫青失笑，想着这次又要用什么方式补偿陛下呢。",
+      "raw_triple": "[卫青] [失笑] [刘彻] || 听着那鸟儿嘴里一声声“朕的大将军”，卫青失笑，想着这次又要用什么方式补偿陛下呢。",
+      "chunk_start": 1753,
+      "chunk_end": 2343
+    }
+  ],
+  "statistics": {
+    "liuche_to_weiqing": 6,
+    "weiqing_to_liuche": 5,
+    "liuche_to_weiqing_percentage": 54.55,
+    "weiqing_to_liuche_percentage": 45.45,
+    "with_source_snippet": 11,
+    "unique_actions": 7
+  }
+}

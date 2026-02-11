@@ -1,0 +1,163 @@
+{
+  "work_id": 46970086,
+  "title": "私泻禁中语",
+  "author": "Ringing",
+  "original_words": 2055,
+  "updated_words": 2343,
+  "total_triples": 12,
+  "extraction_time_seconds": 1020.21,
+  "triples": [
+    {
+      "subject_raw": "刘彻",
+      "subject_normalized": "刘彻",
+      "action": "命令",
+      "object_raw": "卫青",
+      "object_normalized": "卫青",
+      "direction": "刘彻→卫青",
+      "source_snippet": "\"‘仲卿，朕看你颇爱这只鸟儿，朕就将它送给你，你今日便把它捎回去吧。’\"",
+      "raw_triple": "[刘彻] [命令] [卫青] || \"‘仲卿，朕看你颇爱这只鸟儿，朕就将它送给你，你今日便把它捎回去吧。’\"",
+      "chunk_start": 291,
+      "chunk_end": 570
+    },
+    {
+      "subject_raw": "卫青",
+      "subject_normalized": "卫青",
+      "action": "回答",
+      "object_raw": "刘彻",
+      "object_normalized": "刘彻",
+      "direction": "卫青→刘彻",
+      "source_snippet": "\"‘臣谢陛下厚爱，只是这鸟儿过于张扬，臣恐……’\"",
+      "raw_triple": "[卫青] [回答] [刘彻] || \"‘臣谢陛下厚爱，只是这鸟儿过于张扬，臣恐……’\"",
+      "chunk_start": 291,
+      "chunk_end": 570
+    },
+    {
+      "subject_raw": "刘彻",
+      "subject_normalized": "刘彻",
+      "action": "命令",
+      "object_raw": "卫青",
+      "object_normalized": "卫青",
+      "direction": "刘彻→卫青",
+      "source_snippet": "刘彻对卫青说：\"去做这件事。\"",
+      "raw_triple": "[刘彻] [命令] [卫青] || 刘彻对卫青说：\"去做这件事。\"",
+      "chunk_start": 1409,
+      "chunk_end": 1677
+    },
+    {
+      "subject_raw": "卫青",
+      "subject_normalized": "卫青",
+      "action": "回答",
+      "object_raw": "刘彻",
+      "object_normalized": "刘彻",
+      "direction": "卫青→刘彻",
+      "source_snippet": "卫青恭敬地回答：\"遵命，陛下。\"",
+      "raw_triple": "[卫青] [回答] [刘彻] || 卫青恭敬地回答：\"遵命，陛下。\"",
+      "chunk_start": 1409,
+      "chunk_end": 1677
+    },
+    {
+      "subject_raw": "卫青",
+      "subject_normalized": "卫青",
+      "action": "回答",
+      "object_raw": "刘彻",
+      "object_normalized": "刘彻",
+      "direction": "卫青→刘彻",
+      "source_snippet": "是我的外甥。我既然是他的舅妈，送一件礼物罢了。”如果霍去病要得更多，她只会更加高兴。“去病那小子。”卫青无奈的摇摇头，似是无可奈何。“倒是难得见你带这些小玩意儿回家，也不知仲卿你是从哪儿得的，倒也别有一番趣味。”平阳公主拿起一只珠钗，上面缀着雕刻成鸟儿的青石，缀着黄金的流苏。卫青自然不会说自己问了几...",
+      "raw_triple": "[卫青] [回答] [刘彻]",
+      "chunk_start": 1409,
+      "chunk_end": 1677
+    },
+    {
+      "subject_raw": "刘彻",
+      "subject_normalized": "刘彻",
+      "action": "说",
+      "object_raw": "卫青",
+      "object_normalized": "卫青",
+      "direction": "刘彻→卫青",
+      "source_snippet": "“‘仲卿，你看这鸟儿最终还是回到你的手上了。’”",
+      "raw_triple": "[刘彻] [说] [卫青] || “‘仲卿，你看这鸟儿最终还是回到你的手上了。’”",
+      "chunk_start": 1976,
+      "chunk_end": 2266
+    },
+    {
+      "subject_raw": "刘彻",
+      "subject_normalized": "刘彻",
+      "action": "任由",
+      "object_raw": "卫青",
+      "object_normalized": "卫青",
+      "direction": "刘彻→卫青",
+      "source_snippet": "刘彻躺在床上逗着那只鸟儿，任由卫青在一旁整理自己凌乱的衣衫。",
+      "raw_triple": "[刘彻] [任由] [卫青] || 刘彻躺在床上逗着那只鸟儿，任由卫青在一旁整理自己凌乱的衣衫。",
+      "chunk_start": 1976,
+      "chunk_end": 2266
+    },
+    {
+      "subject_raw": "刘彻",
+      "subject_normalized": "刘彻",
+      "action": "说",
+      "object_raw": "卫青",
+      "object_normalized": "卫青",
+      "direction": "刘彻→卫青",
+      "source_snippet": "“‘哈哈哈，这鸟儿可真是……’” – 等等，这个句子是“‘哈哈哈，这鸟儿可真是……’”，但前半部分可能不完整。",
+      "raw_triple": "[刘彻] [说] [卫青] || “‘哈哈哈，这鸟儿可真是……’” – 等等，这个句子是“‘哈哈哈，这鸟儿可真是……’”，但前半部分可能不完整。",
+      "chunk_start": 1976,
+      "chunk_end": 2266
+    },
+    {
+      "subject_raw": "刘彻",
+      "subject_normalized": "刘彻",
+      "action": "说",
+      "object_raw": "卫青",
+      "object_normalized": "卫青",
+      "direction": "刘彻→卫青",
+      "source_snippet": "“‘仲卿且将这鸟儿借我几日。’”",
+      "raw_triple": "[刘彻] [说] [卫青] || “‘仲卿且将这鸟儿借我几日。’”",
+      "chunk_start": 1976,
+      "chunk_end": 2266
+    },
+    {
+      "subject_raw": "刘彻",
+      "subject_normalized": "刘彻",
+      "action": "说",
+      "object_raw": "卫青",
+      "object_normalized": "卫青",
+      "direction": "刘彻→卫青",
+      "source_snippet": "“‘哈哈哈，这鸟儿可真是……’” – 等等，“哈哈哈”可能不是直接针对卫青。",
+      "raw_triple": "[刘彻] [说] [卫青] || “‘哈哈哈，这鸟儿可真是……’” – 等等，“哈哈哈”可能不是直接针对卫青。",
+      "chunk_start": 1976,
+      "chunk_end": 2266
+    },
+    {
+      "subject_raw": "刘彻",
+      "subject_normalized": "刘彻",
+      "action": "说",
+      "object_raw": "卫青",
+      "object_normalized": "卫青",
+      "direction": "刘彻→卫青",
+      "source_snippet": "将卫青一顿折腾后，刘彻躺在床上逗着那只鸟儿，任由卫青在一旁整理自己凌乱的衣衫。",
+      "raw_triple": "[刘彻] [说] [卫青]",
+      "chunk_start": 1976,
+      "chunk_end": 2266
+    },
+    {
+      "subject_raw": "刘彻",
+      "subject_normalized": "刘彻",
+      "action": "任由",
+      "object_raw": "卫青",
+      "object_normalized": "卫青",
+      "direction": "刘彻→卫青",
+      "source_snippet": "将卫青一顿折腾后，刘彻躺在床上逗着那只鸟儿，任由卫青在一旁整理自己凌乱的衣衫。",
+      "raw_triple": "[刘彻] [任由] [卫青]",
+      "chunk_start": 1976,
+      "chunk_end": 2266
+    }
+  ],
+  "statistics": {
+    "liuche_to_weiqing": 9,
+    "weiqing_to_liuche": 3,
+    "liuche_to_weiqing_percentage": 75.0,
+    "weiqing_to_liuche_percentage": 25.0,
+    "with_source_snippet": 12,
+    "unique_actions": 4
+  }
+}

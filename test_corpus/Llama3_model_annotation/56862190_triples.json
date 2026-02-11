@@ -1,0 +1,79 @@
+{
+  "work_id": 56862190,
+  "title": "【汉武/刘卫】上邪（by clare）",
+  "author": "orphan_account",
+  "original_words": 42426,
+  "updated_words": 1750,
+  "total_triples": 5,
+  "extraction_time_seconds": 36.22,
+  "triples": [
+    {
+      "subject_raw": "刘彻",
+      "subject_normalized": "刘彻",
+      "action": "命令",
+      "object_raw": "卫青",
+      "object_normalized": "卫青",
+      "direction": "刘彻→卫青",
+      "source_snippet": "皇帝刘彻却爱在庭院里，像所有上了年纪的老人一样微阖了眼枯坐。",
+      "raw_triple": "[刘彻] [命令] [卫青] || 皇帝刘彻却爱在庭院里，像所有上了年纪的老人一样微阖了眼枯坐。",
+      "chunk_start": 0,
+      "chunk_end": 588
+    },
+    {
+      "subject_raw": "刘彻",
+      "subject_normalized": "刘彻",
+      "action": "猜忌",
+      "object_raw": "卫青",
+      "object_normalized": "卫青",
+      "direction": "刘彻→卫青",
+      "source_snippet": "皇帝刘彻却爱在庭院里，像所有上了年纪的老人一样微阖了眼枯坐。",
+      "raw_triple": "[刘彻] [猜忌] [卫青] || 皇帝刘彻却爱在庭院里，像所有上了年纪的老人一样微阖了眼枯坐。",
+      "chunk_start": 0,
+      "chunk_end": 588
+    },
+    {
+      "subject_raw": "刘彻",
+      "subject_normalized": "刘彻",
+      "action": "评价",
+      "object_raw": "卫青",
+      "object_normalized": "卫青",
+      "direction": "刘彻→卫青",
+      "source_snippet": "刘彻见状，道，“弋儿的一头乌发虽好，却实际也比不过卫家之人。”",
+      "raw_triple": "[刘彻] [评价] [卫青] || 刘彻见状，道，“弋儿的一头乌发虽好，却实际也比不过卫家之人。”",
+      "chunk_start": 1155,
+      "chunk_end": 1750
+    },
+    {
+      "subject_raw": "刘彻",
+      "subject_normalized": "刘彻",
+      "action": "注视",
+      "object_raw": "卫青",
+      "object_normalized": "卫青",
+      "direction": "刘彻→卫青",
+      "source_snippet": "赵勾弋不住回头望向刘彻，她看到这个年迈的男人只冷酷地端坐着，彰显他的恩断义决。",
+      "raw_triple": "[刘彻] [注视] [卫青] || 赵勾弋不住回头望向刘彻，她看到这个年迈的男人只冷酷地端坐着，彰显他的恩断义决。",
+      "chunk_start": 1155,
+      "chunk_end": 1750
+    },
+    {
+      "subject_raw": "刘彻",
+      "subject_normalized": "刘彻",
+      "action": "回忆",
+      "object_raw": "卫青",
+      "object_normalized": "卫青",
+      "direction": "刘彻→卫青",
+      "source_snippet": "他想起自己还是个少年皇帝时，曾骑着骏马肆意飞驰在林苑间，所有的随从都被抛在远方，只有少年卫青驾驭的那一骑，马蹄声始终紧随。",
+      "raw_triple": "[刘彻] [回忆] [卫青] || 他想起自己还是个少年皇帝时，曾骑着骏马肆意飞驰在林苑间，所有的随从都被抛在远方，只有少年卫青驾驭的那一骑，马蹄声始终紧随。",
+      "chunk_start": 1155,
+      "chunk_end": 1750
+    }
+  ],
+  "statistics": {
+    "liuche_to_weiqing": 5,
+    "weiqing_to_liuche": 0,
+    "liuche_to_weiqing_percentage": 100.0,
+    "weiqing_to_liuche_percentage": 0.0,
+    "with_source_snippet": 5,
+    "unique_actions": 5
+  }
+}

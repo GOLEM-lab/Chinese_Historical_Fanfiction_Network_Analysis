@@ -1,0 +1,115 @@
+{
+  "work_id": 46970086,
+  "title": "私泻禁中语",
+  "author": "Ringing",
+  "original_words": 2055,
+  "updated_words": 2343,
+  "total_triples": 8,
+  "extraction_time_seconds": 48.6,
+  "triples": [
+    {
+      "subject_raw": "刘彻",
+      "subject_normalized": "刘彻",
+      "action": "赏赐",
+      "object_raw": "卫青",
+      "object_normalized": "卫青",
+      "direction": "刘彻→卫青",
+      "source_snippet": "刘彻更是大喜，立马下旨给霍去病增加了五千户的封邑，又赏赐了随行的下属，恨不得把最好的东西都赏给霍去病。",
+      "raw_triple": "[刘彻] [赏赐] [卫青] || 刘彻更是大喜，立马下旨给霍去病增加了五千户的封邑，又赏赐了随行的下属，恨不得把最好的东西都赏给霍去病。",
+      "chunk_start": 570,
+      "chunk_end": 1157
+    },
+    {
+      "subject_raw": "刘彻",
+      "subject_normalized": "刘彻",
+      "action": "命令",
+      "object_raw": "卫青",
+      "object_normalized": "卫青",
+      "direction": "刘彻→卫青",
+      "source_snippet": "卫青松了一口气，心里的担忧逐渐转为了骄傲。刘彻更是大喜，立马下旨给霍去病增加了五千户的封邑，又赏赐了随行的下属，恨不得把最好的东西都赏给霍去病。",
+      "raw_triple": "[刘彻] [命令] [卫青] || 卫青松了一口气，心里的担忧逐渐转为了骄傲。刘彻更是大喜，立马下旨给霍去病增加了五千户的封邑，又赏赐了随行的下属，恨不得把最好的东西都赏给霍去病。",
+      "chunk_start": 570,
+      "chunk_end": 1157
+    },
+    {
+      "subject_raw": "刘彻",
+      "subject_normalized": "刘彻",
+      "action": "询问",
+      "object_raw": "卫青",
+      "object_normalized": "卫青",
+      "direction": "刘彻→卫青",
+      "source_snippet": "刘彻放下竹简，“说说这次出战的战术吧。”",
+      "raw_triple": "[刘彻] [询问] [卫青] || 刘彻放下竹简，“说说这次出战的战术吧。”",
+      "chunk_start": 570,
+      "chunk_end": 1157
+    },
+    {
+      "subject_raw": "刘彻",
+      "subject_normalized": "刘彻",
+      "action": "触摸",
+      "object_raw": "卫青",
+      "object_normalized": "卫青",
+      "direction": "刘彻→卫青",
+      "source_snippet": "将卫青一顿折腾后，刘彻躺在床上逗着那只鸟儿，任由卫青在一旁整理自己凌乱的衣衫。",
+      "raw_triple": "[刘彻] [触摸] [卫青] || 将卫青一顿折腾后，刘彻躺在床上逗着那只鸟儿，任由卫青在一旁整理自己凌乱的衣衫。",
+      "chunk_start": 1753,
+      "chunk_end": 2343
+    },
+    {
+      "subject_raw": "刘彻",
+      "subject_normalized": "刘彻",
+      "action": "命令",
+      "object_raw": "卫青",
+      "object_normalized": "卫青",
+      "direction": "刘彻→卫青",
+      "source_snippet": "仲卿且将这鸟儿借我几日。",
+      "raw_triple": "[刘彻] [命令] [卫青] || 仲卿且将这鸟儿借我几日。",
+      "chunk_start": 1753,
+      "chunk_end": 2343
+    },
+    {
+      "subject_raw": "刘彻",
+      "subject_normalized": "刘彻",
+      "action": "示意",
+      "object_raw": "卫青",
+      "object_normalized": "卫青",
+      "direction": "刘彻→卫青",
+      "source_snippet": "仲卿且将这鸟儿借我几日。",
+      "raw_triple": "[刘彻] [示意] [卫青] || 仲卿且将这鸟儿借我几日。",
+      "chunk_start": 1753,
+      "chunk_end": 2343
+    },
+    {
+      "subject_raw": "刘彻",
+      "subject_normalized": "刘彻",
+      "action": "注视",
+      "object_raw": "卫青",
+      "object_normalized": "卫青",
+      "direction": "刘彻→卫青",
+      "source_snippet": "刘彻目光掠过平阳公主头顶青色发饰，似笑非笑，“姐姐和仲卿感情日笃，朕心甚慰。”",
+      "raw_triple": "[刘彻] [注视] [卫青] || 刘彻目光掠过平阳公主头顶青色发饰，似笑非笑，“姐姐和仲卿感情日笃，朕心甚慰。”",
+      "chunk_start": 1753,
+      "chunk_end": 2343
+    },
+    {
+      "subject_raw": "卫青",
+      "subject_normalized": "卫青",
+      "action": "整理",
+      "object_raw": "刘彻",
+      "object_normalized": "刘彻",
+      "direction": "卫青→刘彻",
+      "source_snippet": "任由卫青在一旁整理自己凌乱的衣衫。",
+      "raw_triple": "[卫青] [整理] [刘彻] || 任由卫青在一旁整理自己凌乱的衣衫。",
+      "chunk_start": 1753,
+      "chunk_end": 2343
+    }
+  ],
+  "statistics": {
+    "liuche_to_weiqing": 7,
+    "weiqing_to_liuche": 1,
+    "liuche_to_weiqing_percentage": 87.5,
+    "weiqing_to_liuche_percentage": 12.5,
+    "with_source_snippet": 8,
+    "unique_actions": 7
+  }
+}

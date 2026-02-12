@@ -19,8 +19,10 @@ This interdisciplinary project combines computational methods (network analysis,
 │   ├── cross_dynasty/                # Identified cross dynasty pairing
 ├── test_corpus/
 │   ├── human_annotations/            # Human annotation data
-│   └── evaluation/                   # Evaluation results
-├── model_triple_extraction/          # Model triple extraction results
+│   ├── Qwen3_model_annotation/       # Model triple extraction results
+│   ├── Llama3_model_annotation/      # Model triple extraction results
+│   └── DeepseekR1_model_annotation/  # Model triple extraction results
+├── embedding_evaluation_result/      # Evaluation results
 ├── interview_transcripts/            # Eight interview transcripts
 └── README.md                         # This file
 ```
